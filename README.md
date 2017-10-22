@@ -1,10 +1,6 @@
-A marketplace Web front UI for FISH-Marketplace Web Service
+A marketplace Web front UI for BAKER: A TOSCA Template Marketplace and Orchestration Service  
 ==========
-Marketplace Web front UI is an AngularJS based UI to be used with FISH-Marketplace Web Service
-
-
-FISH-Marketplace Web Service is a RESTful marketplace service for FISH project of FI-STAR (http://www.fi-star.eu)
-
+BAKER-TTMOS-Web is a  Web front UI  written in AngularJS for BAKER: A TOSCA Template Marketplace and Orchestration Service (https://github.com/NAMGroup/BAKER-TTMOS)
 
 Licenses
 --------
